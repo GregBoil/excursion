@@ -1,0 +1,37 @@
+html {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+
+header .Title {
+    font-size: 3.125rem;
+    font-weight: 400;
+}
+
+.link {
+    font-size: 1rem;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+.Title-2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.personal-guide p {
+    color: gray;
+    font-size: 1.325rem;
+}
+
+.coming-soon {
+    margin-top: 1rem;
+}
+
+footer {
+    text-align: end;
+    color: gray;
+}
